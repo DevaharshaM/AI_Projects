@@ -26,4 +26,5 @@ Here, we have used YOLO, a deep learning framework for object recognition. YOLO 
 **Python Code Implementation:**
 
 Import Numpy : [pip install numpy]
+
 Load Yolo weights : [yolo_weights](https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights)
