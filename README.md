@@ -5,5 +5,7 @@ The suggested washing time comes approximately at 36.4 with a membership functio
 **Python Code Implementation:**
 
 Import Skfuzzy : [pip install scikit-fuzzy]
+
 Import Numpy : [pip install numpy]
+
 Import Matplot : [pip install matplotlib]
