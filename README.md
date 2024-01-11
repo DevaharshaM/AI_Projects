@@ -2,8 +2,14 @@ I have implemented fuzzy controller for washing maachine using scikit-fuzzy pack
 
 The formula for the Mean of Maxima is given as -
 
-                                    $\MoM = sum_{x=a}^{b} \frac{\mu_A(x).x}{|M|}$
+                                    $MoM = \sum_{x=a}^{b} \frac{\mu_A(x).x}{|M|}$
 
 where a,b are min and max membership values respectively
 
 The suggested washing time comes approximately at 36.4 with a membership function of 0.6
+
+**Python Code Implementation:**
+
+Import Skfuzzy : [pip install scikit-fuzzy]
+Import Numpy : [pip install numpy]
+Import Matplot : [pip install matplotlib]
