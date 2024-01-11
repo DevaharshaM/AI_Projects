@@ -2,7 +2,7 @@ I have implemented fuzzy controller for washing maachine using scikit-fuzzy pack
 
 The formula for the Mean of Maxima is given as -
 
-                                    $MoM = \sum_{x=a}^{b} \frac{\mu_A(x).x}{|M|}$
+                                    $MoM = \sum_{x=a}^{b}$
 
 where a,b are min and max membership values respectively
 
