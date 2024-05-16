@@ -20,3 +20,15 @@ Deep Neural Networks (DNNs) have shown remarkable performance in image classific
 
 ### Required Dataset ###
 1. [MNIST Dataset](https://drive.google.com/drive/folders/1tcy9DMaT1kyWQUz0XK2BdWAvQZJeqGgM)
+
+**Python Code Implementation:**
+
+Import OneHotEncoder : [pip install sklearn]
+
+Import Tensorflow : [pip install tensorflow]
+
+Import Numpy : [pip install numpy]
+
+Import Keras : [pip install keras]
+
+For Dataset : [MNIST Datatset](https://drive.google.com/drive/folders/1tcy9DMaT1kyWQUz0XK2BdWAvQZJeqGgM)
