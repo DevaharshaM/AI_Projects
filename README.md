@@ -16,6 +16,16 @@ GANs consist of two neural networks: a generator and a discriminator. The genera
 
 4. **Evaluation**: Evaluate the generated images for their quality and realism. This can be done visually by human assessors or through quantitative metrics such as Inception Score or Frechet Inception Distance (FID).
 
+**Python Code Implementation:**
+
+Import OneHotEncoder : [pip install sklearn]
+
+Import Tensorflow : [pip install tensorflow]
+
+Import Numpy : [pip install numpy]
+
+For Dataset: [pip install keras]
+
 ### References
 
 - [Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.](https://papers.nips.cc/paper/5423-generative-adversarial-nets)
