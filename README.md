@@ -18,9 +18,6 @@ Deep Neural Networks (DNNs) have shown remarkable performance in image classific
 
 5. **Inference**: Once trained, the DNN can be used to classify new, unseen images of handwritten digits with high accuracy.
 
-### Required Dataset ###
-1. [MNIST Dataset](https://drive.google.com/drive/folders/1tcy9DMaT1kyWQUz0XK2BdWAvQZJeqGgM)
-
 **Python Code Implementation:**
 
 Import OneHotEncoder : [pip install sklearn]
